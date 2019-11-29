@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
@@ -105,6 +108,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UC7y1TiidHJJiIp9e20Cv4Ktch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -147,11 +151,22 @@
       <workItem from="1574848975293" duration="2679000" />
       <workItem from="1574937737910" duration="3584000" />
       <workItem from="1574981051554" duration="6618000" />
-      <workItem from="1575028891384" duration="602000" />
+      <workItem from="1575028891384" duration="3532000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
