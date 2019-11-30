@@ -152,6 +152,7 @@
       <workItem from="1574937737910" duration="3584000" />
       <workItem from="1574981051554" duration="6618000" />
       <workItem from="1575028891384" duration="3532000" />
+      <workItem from="1575102071209" duration="4188000" />
     </task>
     <servers />
   </component>
@@ -163,10 +164,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
